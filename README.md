@@ -1,7 +1,7 @@
 <div align="center">
 <img width="150" height="150" alt="LitePipe" src="https://github.com/user-attachments/assets/143932c4-5d9b-4846-b7cc-9c2855d65758" />
 
-# LitePipe
+# RikkyTube
 
 **A fast, feature-rich YouTube client for Android**
 
