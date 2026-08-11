@@ -218,7 +218,7 @@ public final class MainActivity extends AppCompatActivity implements LinkDetecti
 			});
 		});
 
-		updateManager.checkForUpdates(this, false);
+		
 	}
 
 	@Override
